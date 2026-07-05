@@ -166,7 +166,7 @@ Volunteer ◄──► Victim ◄──► Volunteer
 - Settings
 
 ---
-
+![LifeLine Screenshot](WhatsApp%20Image%202026-07-05%20at%204.38.51%20AM.jpeg)
 #  Demo Workflow
 
 ```text
